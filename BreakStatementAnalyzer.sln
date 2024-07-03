@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakStatementAnalyzer", "BreakStatementAnalyzer\BreakStatementAnalyzer\BreakStatementAnalyzer.csproj", "{0E273B3B-72F1-434A-886D-EA5771F1DDDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakStatementAnalyzer.Sample", "BreakStatementAnalyzer\BreakStatementAnalyzer.Sample\BreakStatementAnalyzer.Sample.csproj", "{34E33956-F824-43FB-A537-7916F93E7F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakStatementAnalyzer.Tests", "BreakStatementAnalyzer\BreakStatementAnalyzer.Tests\BreakStatementAnalyzer.Tests.csproj", "{A9A2D153-B8D0-47AE-9428-18231C27CD31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{2FB57127-D343-4B2A-9F10-429F0E737A23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E273B3B-72F1-434A-886D-EA5771F1DDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E273B3B-72F1-434A-886D-EA5771F1DDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E273B3B-72F1-434A-886D-EA5771F1DDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E273B3B-72F1-434A-886D-EA5771F1DDDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E33956-F824-43FB-A537-7916F93E7F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E33956-F824-43FB-A537-7916F93E7F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E33956-F824-43FB-A537-7916F93E7F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E33956-F824-43FB-A537-7916F93E7F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9A2D153-B8D0-47AE-9428-18231C27CD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A2D153-B8D0-47AE-9428-18231C27CD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A2D153-B8D0-47AE-9428-18231C27CD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A2D153-B8D0-47AE-9428-18231C27CD31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FB57127-D343-4B2A-9F10-429F0E737A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB57127-D343-4B2A-9F10-429F0E737A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB57127-D343-4B2A-9F10-429F0E737A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB57127-D343-4B2A-9F10-429F0E737A23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
