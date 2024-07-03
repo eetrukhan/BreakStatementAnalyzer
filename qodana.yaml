@@ -23,6 +23,7 @@ profile:
 
 #Execute shell command before Qodana execution (Applied in CI/CD pipeline)
 #bootstrap: sh ./prepare-qodana.sh
+bootstrap: dotnet build
 
 #Install IDE plugins before Qodana execution (Applied in CI/CD pipeline)
 #plugins:
